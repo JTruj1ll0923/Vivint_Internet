@@ -3,10 +3,10 @@ wget -P ~/speedtest-cli https://raw.githubusercontent.com/JTruj1ll0923/Vivint_In
 wait
 tar -xzf ~/speedtest-cli/speedtest.tar.gz -C ~/speedtest-cli/
 chmod +x ~/speedtest-cli/speedtest/speedtest
-echo "\‾\    /‾/ |‾| \‾\    /‾/ |‾| |‾‾‾\   |‾| |‾‾‾‾‾‾‾‾‾‾‾‾|"
-echo " \ \  / /  | |  \ \  / /  | | | |\  \ | |  ‾‾‾‾|  |‾‾‾‾"
-echo "  \ \/ /   | |   \ \/ /   | | | | \  \| |      |  |"
-echo "   \__/    |_|    \__/    |_| |_|   \___|      |__|"
+echo "\‾\    /‾/ |‾| \‾\    /‾/ |‾| |‾‾‾\  |‾| |‾‾‾‾‾‾‾‾‾‾‾‾|"
+echo " \ \  / /  | |  \ \  / /  | | | |\ \ | |  ‾‾‾‾|  |‾‾‾‾"
+echo "  \ \/ /   | |   \ \/ /   | | | | \ \| |      |  |"
+echo "   \__/    |_|    \__/    |_| |_|  \___|      |__|"
 echo "About to run a speedtest!"
 echo "--------------------------------------"
 ~/speedtest-cli/speedtest/speedtest
