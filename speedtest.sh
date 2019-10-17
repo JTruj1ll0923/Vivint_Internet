@@ -1,5 +1,5 @@
 #!/bin/bash
-wget -P ~/speedtest-cli https://raw.githubusercontent.com/JTruj1ll0923/Vivint_Internet/master/speedtest.tar.gz
+wget -P ~/speedtest-cli http://raw.githubusercontent.com/JTruj1ll0923/Vivint_Internet/master/speedtest.tar.gz
 wait
 tar -xzf ~/speedtest-cli/speedtest.tar.gz -C ~/speedtest-cli/
 chmod +x ~/speedtest-cli/speedtest/speedtest
